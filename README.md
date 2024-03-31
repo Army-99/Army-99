@@ -5,7 +5,7 @@
 ## Projects
 
 
-### 🍴 Autonomous Web3 Gaming Application [💻Full Stack Repo ](<!-- Inserisci qui il link alla repository-->)
+### Autonomous Web3 Gaming Application[💻Fullstack Repo](https://github.com/Army-99/fantaweb3)]
 
 Fantasy football game using Next.js for backend/frontend and web3 network to manage user funds, enabling users to play and earn autonomously.
 
