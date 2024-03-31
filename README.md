@@ -1,4 +1,4 @@
-[![Linkedin: Christian Armato](https://img.shields.io/badge/-Christian_Armato-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/christian-armato/)](https://www.linkedin.com/in/christian-armato-0419b6179/)
+[![Linkedin: Christian Armato](https://img.shields.io/badge/-Christian_Armato-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/christian-armato/)](https://www.linkedin.com/in/christian-armato/)
 [![GitHub Christian Armato](https://img.shields.io/github/followers/Army-99?label=follow&style=social)]( https://github.com/Army-99)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app//graph?username=Army-99&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
