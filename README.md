@@ -30,7 +30,7 @@ Notifications: Telegram Bot
 Background Jobs: .NET Hosted Services
 
 
-### Autonomous Web3 Gaming Application[💻Fullstack Repo](https://github.com/Army-99/fantaweb3)]
+### Autonomous Web3 Gaming Application[💻Fullstack Repo](https://github.com/Army-99/fantaweb3)
 
 Fantasy football game using Next.js for backend/frontend and web3 network to manage user funds, enabling users to play and earn autonomously.
 
